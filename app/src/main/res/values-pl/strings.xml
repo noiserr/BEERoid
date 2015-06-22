@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BEERoid</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="dialog_beer_description_hint">Opis</string>
+    <string name="dialog_beer_name_hint">Nazwa piwa</string>
+    <string name="dialog_title">DODAJ PIWO</string>
+    <string name="dialog_save_button">ZAPISZ</string>
+    <string name="dialog_cancel_button">ANULUJ</string>
+    <string name="snackbar_removed">" usunięto"</string>
+    <string name="snack_bar_undo">COFNIJ</string>
+    <string name="empty_information_dialog">Nazwa i opis nie mogą być puste</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BEERoid</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">ADD BEER</string>
+    <string name="dialog_beer_name_hint">Beer name</string>
+    <string name="dialog_beer_description_hint">Description</string>
+    <string name="dialog_save_button">SAVE</string>
+    <string name="dialog_cancel_button">CANCEL</string>
+    <string name="snackbar_removed">" removed"</string>
+    <string name="snack_bar_undo">UNDO</string>
+    <string name="empty_information_dialog">Name and description must be filled</string>
+</resources>

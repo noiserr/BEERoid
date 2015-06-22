@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="Theme.Beeroid" parent="Base.Theme.Beeroid">
+    </style>
+
+    <style name="Base.Theme.Beeroid" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#607D8B</item>
+        <item name="colorPrimaryDark">#455A64</item>
+        <item name="colorAccent">#FFD180</item>
+
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+</resources>
